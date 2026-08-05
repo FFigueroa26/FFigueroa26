@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hola, soy Felix 👋</h1>
+<h1 align="center">Hola, soy Felix 👋</h1>
 
 <h3 align="center">🚀 Futuro Full Stack Developer | JavaScript | Node.js | PostgreSQL</h3>
 
@@ -23,7 +23,11 @@ Single Page Applications (SPA)
 Consumo de APIs REST
 Integración de Inteligencia Artificial
 Vercel y Serverless Functions
+Railway
+GitHub
 Unit Testing
+Jest
+Supertest
 HTML y CSS
 ```
 
@@ -38,6 +42,10 @@ HTML y CSS
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
+![Supertest](https://img.shields.io/badge/Supertest-222222?style=for-the-badge&logo=testinglibrary&logoColor=fff)
 
 ---
 
@@ -49,8 +57,9 @@ HTML y CSS
 - 📱 Diseñar interfaces responsive y Mobile First
 - 🌐 Consumir APIs REST desde aplicaciones web
 - 🤖 Integrar Inteligencia Artificial en proyectos reales
-- 🧪 Practicar Unit Testing
-- 🚀 Desplegar aplicaciones en Vercel
+- 🧪 Practicar Unit Testing con Jest y Supertest
+- 🚀 Desplegar aplicaciones en Vercel y Railway
+- 🗂️ Mantener proyectos organizados en GitHub
 
 ---
 
@@ -61,8 +70,9 @@ HTML y CSS
 | Frontend | HTML, CSS, JavaScript, Responsive Design, SPA |
 | Backend | Node.js, Express, Serverless Functions |
 | Base de datos | PostgreSQL |
-| Testing | Unit Testing |
-| Deploy | Vercel |
+| Testing | Unit Testing, Jest, Supertest |
+| Deploy | Vercel, Railway |
+| Versionado | GitHub |
 | IA | Integración de Inteligencia Artificial |
 
 ---
