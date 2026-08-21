@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Me estoy preparando para convertirme en **Full Stack Developer**, construyendo una base sólida en desarrollo web moderno, backend, bases de datos, diseño responsive y despliegue de aplicaciones.
+Soy **Técnico en Informática** graduado en el **IUTEMBI** (Venezuela) y me estoy preparando para convertirme en **Full Stack Developer**, construyendo una base sólida en desarrollo web moderno, backend, bases de datos, diseño responsive y despliegue de aplicaciones.
 
 Me interesa crear proyectos útiles, limpios y bien estructurados, conectando frontend, backend, APIs, bases de datos e Inteligencia Artificial.
 
