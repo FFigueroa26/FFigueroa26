@@ -24,6 +24,7 @@ PostgreSQL
 Firebase (Firestore)
 Servicios AWS
 Responsive Design y Mobile First
+Tailwind CSS
 Single Page Applications (SPA)
 Consumo de APIs REST
 Integración de Inteligencia Artificial
@@ -56,6 +57,7 @@ HTML y CSS
 ![Supertest](https://img.shields.io/badge/Supertest-222222?style=for-the-badge&logo=testinglibrary&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 
 ---
 
@@ -81,7 +83,7 @@ HTML y CSS
 
 | Área | Tecnologías |
 | --- | --- |
-| Frontend | HTML, CSS, JavaScript, TypeScript, React, Vite, Responsive Design, SPA |
+| Frontend | HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Vite, Responsive Design, SPA |
 | Backend | Node.js, Express, Serverless Functions |
 | Base de datos | PostgreSQL, Firebase (Firestore) |
 | Cloud | AWS, Firebase |
