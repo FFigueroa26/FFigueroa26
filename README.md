@@ -1,45 +1,41 @@
-<h1 align="center">Hola, soy Felix 👋</h1>
+<h1 align="center">Hi, I'm Felix 👋</h1>
 
-<h3 align="center">🚀 Futuro Full Stack Developer | JavaScript | TypeScript | React | Node.js | PostgreSQL | Firebase | AWS</h3>
-
----
-
-## 👨‍💻 Sobre mí
-
-Soy **Técnico en Informática** graduado en el **IUTEMBI** (Venezuela) y me estoy preparando para convertirme en **Full Stack Developer**, construyendo una base sólida en desarrollo web moderno, backend, bases de datos, diseño responsive y despliegue de aplicaciones.
-
-Me interesa crear proyectos útiles, limpios y bien estructurados, conectando frontend, backend, APIs, bases de datos e Inteligencia Artificial.
+<h3 align="center">🚀 Aspiring Full Stack Developer | JavaScript | TypeScript | React | Node.js | PostgreSQL | Firebase | AWS</h3>
 
 ---
 
-## 🧠 Actualmente estoy aprendiendo
+## 👨‍💻 About Me
+
+I hold an **Associate Degree in Computer Science** (*Técnico en Informática*) from **IUTEMBI** (Venezuela) and am currently training to become a **Full Stack Developer**. I am building a strong foundation in modern web development, backend engineering, database management, responsive design, and application deployment.
+
+I am passionate about creating clean, scalable, and impactful applications by seamlessly connecting frontends, backends, RESTful APIs, databases, and AI technologies.
+
+---
+
+## 🧠 What I'm Learning & Practicing
 
 ```txt
-JavaScript
-TypeScript
-React
+JavaScript & TypeScript
+React & SPA Development
 Vite
-Node.js y Express
+Node.js & Express
 PostgreSQL
 Firebase (Firestore)
-Servicios AWS
-Responsive Design y Mobile First
+AWS Cloud Services
+Responsive Design & Mobile-First Approach
 Tailwind CSS
-Single Page Applications (SPA)
-Consumo de APIs REST
-Integración de Inteligencia Artificial
-Vercel y Serverless Functions
+REST API Integration
+Artificial Intelligence Integration
+Vercel & Serverless Functions
 Railway
-GitHub
-Unit Testing
-Jest
-Supertest
-HTML y CSS
+GitHub Version Control
+Unit Testing (Jest & Supertest)
+HTML5 & CSS3
 ```
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
@@ -61,45 +57,44 @@ HTML y CSS
 
 ---
 
-## 📌 En qué estoy enfocado
+## 📌 Current Focus
 
-- 🧩 Mejorar mi lógica con JavaScript y TypeScript
-- ⚛️ Construir interfaces con React
-- ⚡ Crear y optimizar proyectos con Vite
-- ⚙️ Crear APIs con Node.js y Express
-- 🗄️ Trabajar con bases de datos PostgreSQL
-- 🔥 Integrar Firebase (Firestore) como base de datos en tiempo real
-- ☁️ Explorar servicios de AWS
-- 📱 Diseñar interfaces responsive y Mobile First
-- 🌐 Consumir APIs REST desde aplicaciones web
-- 🤖 Integrar Inteligencia Artificial en proyectos reales
-- 🧪 Practicar Unit Testing con Jest y Supertest
-- 🚀 Desplegar aplicaciones en Vercel y Railway
-- 🗂️ Mantener proyectos organizados en GitHub
+- 🧩 Strengthening problem-solving and programming logic with JavaScript & TypeScript.
+- ⚛️ Crafting dynamic and interactive user interfaces using React.
+- ⚡ Building fast, optimized projects with Vite.
+- ⚙️ Developing robust RESTful APIs with Node.js and Express.
+- 🗄️ Designing and managing relational databases with PostgreSQL.
+- 🔥 Implementing real-time cloud data with Firebase (Firestore).
+- ☁️ Exploring AWS cloud infrastructure and deployment.
+- 📱 Applying Mobile-First principles to build responsive web apps.
+- 🌐 Integrating third-party APIs into real-world applications.
+- 🤖 Enhancing projects through Artificial Intelligence integration.
+- 🧪 Ensuring code reliability through Unit Testing using Jest and Supertest.
+- 🚀 Deploying applications seamlessly via Vercel and Railway.
+- 🗂️ Maintaining clean, well-structured workflows using GitHub.
 
 ---
 
-## 🧰 Mi stack principal
+## 🧰 Tech Stack Summary
 
-| Área | Tecnologías |
+| Category | Technologies |
 | --- | --- |
-| Frontend | HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Vite, Responsive Design, SPA |
-| Backend | Node.js, Express, Serverless Functions |
-| Base de datos | PostgreSQL, Firebase (Firestore) |
-| Cloud | AWS, Firebase |
-| Testing | Unit Testing, Jest, Supertest |
-| Deploy | Vercel, Railway |
-| Versionado | GitHub |
-| IA | Integración de Inteligencia Artificial |
+| **Frontend** | HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Vite, Mobile-First / Responsive Design, SPAs |
+| **Backend** | Node.js, Express, Serverless Functions |
+| **Databases** | PostgreSQL, Firebase (Firestore) |
+| **Cloud & DevOps** | AWS, Firebase, Vercel, Railway |
+| **Testing** | Unit Testing, Jest, Supertest |
+| **Version Control** | GitHub |
+| **AI Integration** | Artificial Intelligence Tools & API Integration |
 
 ---
 
-## 📫 Contacto
+## 📫 Get in Touch
 
 📧 **Email:** [figueroafelix89@gmail.com](mailto:figueroafelix89@gmail.com)
 
 ---
 
 <p align="center">
-  Gracias por visitar mi perfil ✨
+  Thanks for visiting my profile! ✨
 </p>
